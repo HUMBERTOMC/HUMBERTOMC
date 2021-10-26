@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HUMBERTOMC
-- 👀 I’m interested in learning new technologies like: backend APIs, frontend libraries, new programming languages, datascience and more.
+- 👀 I’m interested in learning new technologies like: backend frameworks, frontend libraries, new programming languages, datascience and more.
 - 📫 How to reach me: humberto.mattos@gmail.com
 
 <!---
