@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HUMBERTOMC
-- 👀 I’m interested in helping new developers to understand the main concepts about java frameworks and architectures concepts.
+- 👀 I’m interested in helping new developers to understand the main concepts about java frameworks and system architectures.
 - 📫 How to reach me: humberto.mattos@gmail.com
 
 <!---
